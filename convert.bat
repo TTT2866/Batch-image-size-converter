@@ -2,7 +2,6 @@
 title Converter
 color f
 mode 40,10
-nircmd wait 6000
 echo %1
 echo File size is %~z1 kb
 
